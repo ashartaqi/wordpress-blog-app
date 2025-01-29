@@ -739,3 +739,7 @@ div.comment:first-of-type {
 #menu-main-menu{
     padding: 0;
 }
+.footer-search{
+    color:white;
+    padding-bottom:5px
+}
